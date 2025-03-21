@@ -1,0 +1,39 @@
+table,th,td {
+  
+  
+  border-collapse: collapse;
+  border-color: black;
+  border-style: solid;
+  text-wrap: wrap;
+  justify-content: center;
+  width: 35%;
+  left: 270px;
+  height: 5px;
+  margin-left: 30%;
+  margin-right: 30%;
+  background-color: bisque;
+  background-image: -moz-element(F:/Ganesh.avif);
+  
+}
+
+
+th {
+  background-color:rgb(28, 162, 186);
+  font-size: larger;
+  font-weight: 400;
+  color: blanchedalmond;
+}
+
+
+th,
+td,
+tr {
+
+  border-style: solid;
+  text-align: center;
+  text-wrap: wrap;
+  
+  
+}
+
+
